@@ -1,0 +1,10 @@
+
+.me-auto{
+    display: flex;
+    background-color: rgb(2, 12, 12);
+width: 100%;
+}
+.nav-link{
+    display: flex;
+    align-items: end;
+}

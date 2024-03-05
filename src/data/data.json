@@ -1,0 +1,204 @@
+<<<<<<< HEAD
+[
+{
+    "id": 1,
+    "name": "Audi A4",
+    "description": " s-line,con motor 2.0t y interior de alcantara",
+    "stock": 1,
+    "price": 65000,
+    "categoria": "auto",
+    "img":"https://junkmailimages.blob.core.windows.net/large/c6535a49eaed4ef4a13e8dca3e38b09c.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Porsche 911 GT2RS",
+    "description": "motor 4.0 bi-turbo",
+    "stock": 4,
+    "price": 200000,
+    "categoria": "auto",
+    "img":"https://www.modelcitizendiecast.com/cdn/shop/products/AA18991.2GT2RSFQ3K_2000x2000.jpg?v=1653536668"
+  },
+  {
+    "id": 3,
+    "name": "Ducati v4 panigale",
+    "description": "Potente y agil, moto italiana",
+    "stock": 5,
+    "price": 35000,
+    "categoria": "moto",
+    "img":"https://fotografias.lasexta.com/clipping/cmsimages01/2020/06/28/FAACB02D-1669-4CCF-B990-7FD1B2BC704C/98.jpg?crop=1600,900,x0,y7&width=1900&height=1069&optimize=high&format=webply"
+  },
+  {
+    "id": 4,
+    "name": "Yamaha R1M ",
+    "description": "210hp y 5 modos de manejo ",
+    "stock": 7 ,
+    "price": 40000 ,
+    "categoria": "moto",
+    "img":"https://cdn.dealerspike.com/imglib/v1/800x600/imglib/Assets/Inventory/97/2A/972A2E9A-E965-4935-9316-969542BD87B6.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Mercedes Benz G63 AMG ",
+    "description": "Todo terreno de lujo ",
+    "stock": 30 ,
+    "price": 300000 ,
+    "categoria": "camioneta",
+    "img":"https://espaillatmotors.com/wp-content/uploads/2023/04/IMG_9219-scaled.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Dodge RAM TRX",
+    "description": "Motor HEMI 5.7 supercharged",
+    "stock": 30,
+    "price": 140000,
+    "categoria": "camioneta",
+    "img":"https://phantom-marca.unidadeditorial.es/8b75afc319bbf38bd9249e152b16b6ca/resize/828/f/jpg/assets/multimedia/imagenes/2021/04/08/16179039437499.jpg"
+},
+  {
+    "id": 7,
+    "name": "Toyota supra",
+    "description": "Con su motor 2JZ GTE",
+    "stock": 1,
+    "price": 120000,
+    "categoria": "auto",
+    "img":"https://cdn.motor1.com/images/mgl/PKZQL/s3/1997-toyota-supra-sold-for-176-000-at-auction.jpg"
+},
+  {
+    "id": 8,
+    "name": "Suzuki celerio",
+    "description": "Motor 1.0 4 cilindos muy fiable y economico, excelente para la ciudad",
+    "stock": 1,
+    "price": 14000,
+    "categoria": "auto",
+    "img":"https://http2.mlstatic.com/D_NQ_NP_855458-MLU74773908119_022024-O.webp"
+},
+  {
+    "id": 9,
+    "name": "Yamaha YZ-F 450",
+    "description": "La marca nipona nos trae su YZ-F 450 totalmente rediseñada, suspencion, inyeccion, chasis",
+    "stock": 30,
+    "price": 15000,
+    "categoria": "moto",
+    "img":"https://www.motociclismo.es/uploads/s1/63/65/36/7/5cfe7ef90de694234a349e51-novedades-yamaha-yzf-450-2020.jpeg"
+},
+  {
+    "id": 10,
+    "name": "Honda GoldWind",
+    "description": "Para los amantes de las motos de lujo, la GoldWind es una experiencia de lujo sobre ruedas",
+    "stock": 3,
+    "price": 120000,
+    "categoria": "moto",
+    "img":"https://img.sm360.ca/ir/w640h480far/images/newcar/ca/2023/honda/gold-wing-tour-dct/abs/touring/exteriorColors/2023_honda_goldwing-tour-dct_abs_032_ng.jpg"
+},
+  {
+    "id": 11,
+    "name": "koenigsegg Agera",
+    "description": "Super deportivo, full fibra de carbono",
+    "stock": 1,
+    "price": 4000000,
+    "categoria": "auto",
+    "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Koenigsegg_agera.jpg/1200px-Koenigsegg_agera.jpg"
+}
+=======
+[
+{
+    "id": 1,
+    "name": "Audi A4",
+    "description": " s-line,con motor 2.0t y interior de alcantara",
+    "stock": 1,
+    "price": 65000,
+    "categoria": "auto",
+    "img":"https://junkmailimages.blob.core.windows.net/large/c6535a49eaed4ef4a13e8dca3e38b09c.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Porsche 911 GT2RS",
+    "description": "motor 4.0 bi-turbo",
+    "stock": 4,
+    "price": 200000,
+    "categoria": "auto",
+    "img":"https://www.modelcitizendiecast.com/cdn/shop/products/AA18991.2GT2RSFQ3K_2000x2000.jpg?v=1653536668"
+  },
+  {
+    "id": 3,
+    "name": "Ducati v4 panigale",
+    "description": "Potente y agil, moto italiana",
+    "stock": 5,
+    "price": 35000,
+    "categoria": "moto",
+    "img":"https://fotografias.lasexta.com/clipping/cmsimages01/2020/06/28/FAACB02D-1669-4CCF-B990-7FD1B2BC704C/98.jpg?crop=1600,900,x0,y7&width=1900&height=1069&optimize=high&format=webply"
+  },
+  {
+    "id": 4,
+    "name": "Yamaha R1M ",
+    "description": "210hp y 5 modos de manejo ",
+    "stock": 7 ,
+    "price": 40000 ,
+    "categoria": "moto",
+    "img":"https://cdn.dealerspike.com/imglib/v1/800x600/imglib/Assets/Inventory/97/2A/972A2E9A-E965-4935-9316-969542BD87B6.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Mercedes Benz G63 AMG ",
+    "description": "Todo terreno de lujo ",
+    "stock": 30 ,
+    "price": 300000 ,
+    "categoria": "camioneta",
+    "img":"https://espaillatmotors.com/wp-content/uploads/2023/04/IMG_9219-scaled.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Dodge RAM TRX",
+    "description": "Motor HEMI 5.7 supercharged",
+    "stock": 30,
+    "price": 140000,
+    "categoria": "camioneta",
+    "img":"https://phantom-marca.unidadeditorial.es/8b75afc319bbf38bd9249e152b16b6ca/resize/828/f/jpg/assets/multimedia/imagenes/2021/04/08/16179039437499.jpg"
+},
+  {
+    "id": 7,
+    "name": "Toyota supra",
+    "description": "Con su motor 2JZ GTE",
+    "stock": 1,
+    "price": 120000,
+    "categoria": "auto",
+    "img":"https://cdn.motor1.com/images/mgl/PKZQL/s3/1997-toyota-supra-sold-for-176-000-at-auction.jpg"
+},
+  {
+    "id": 8,
+    "name": "Suzuki celerio",
+    "description": "Motor 1.0 4 cilindos muy fiable y economico, excelente para la ciudad",
+    "stock": 1,
+    "price": 14000,
+    "categoria": "auto",
+    "img":"https://http2.mlstatic.com/D_NQ_NP_855458-MLU74773908119_022024-O.webp"
+},
+  {
+    "id": 9,
+    "name": "Yamaha YZ-F 450",
+    "description": "La marca nipona nos trae su YZ-F 450 totalmente rediseñada, suspencion, inyeccion, chasis",
+    "stock": 30,
+    "price": 15000,
+    "categoria": "moto",
+    "img":"https://www.motociclismo.es/uploads/s1/63/65/36/7/5cfe7ef90de694234a349e51-novedades-yamaha-yzf-450-2020.jpeg"
+},
+  {
+    "id": 10,
+    "name": "Honda GoldWind",
+    "description": "Para los amantes de las motos de lujo, la GoldWind es una experiencia de lujo sobre ruedas",
+    "stock": 3,
+    "price": 120000,
+    "categoria": "moto",
+    "img":"https://img.sm360.ca/ir/w640h480far/images/newcar/ca/2023/honda/gold-wing-tour-dct/abs/touring/exteriorColors/2023_honda_goldwing-tour-dct_abs_032_ng.jpg"
+},
+  {
+    "id": 11,
+    "name": "koenigsegg Agera",
+    "description": "Super deportivo, full fibra de carbono",
+    "stock": 1,
+    "price": 4000000,
+    "categoria": "auto",
+    "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Koenigsegg_agera.jpg/1200px-Koenigsegg_agera.jpg"
+}
+>>>>>>> ff8d35986d69c839e8cf4a146d3c2d110d05507c
+]
